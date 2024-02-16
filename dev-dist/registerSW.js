@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) navigator.serviceWorker.register('/dev-sw.js?dev-sw', { scope: '/', type: 'classic' })
+if('serviceWorker' in navigator) navigator.serviceWorker.register('/nlw-expert-react/dev-sw.js?dev-sw', { scope: '/nlw-expert-react/', type: 'classic' })
